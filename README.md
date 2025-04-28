@@ -40,7 +40,11 @@ while True:
 
 ## OUTPUT
 
+Server:
+
 ![image](https://github.com/user-attachments/assets/240ad28d-99dd-4a3b-80b8-ee7db5f3a3b7)
+
+Client:
 
 ![image](https://github.com/user-attachments/assets/c2923570-67d9-4d7b-b189-5094e9dd7ac0)
 
